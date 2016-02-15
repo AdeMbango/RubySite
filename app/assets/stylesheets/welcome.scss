@@ -3,7 +3,9 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 h1{color: #fff; align: center; position: relative}
 .container{width: 100%;padding:0}
-.form{width: 40%;text-align: center; margin: auto}
+.container2{background-image: url('../images/ubuntu-16.jpg');
+	;width: 100%;padding:0;height: 500px;text-align: center; margin: auto;float: left}
+.form{width: 40%;text-align: center; margin: auto;float: center}
 .input{text-align: left}
 /* W3.CSS 1.9 by J.E.Refsnes. Do not remove this line. */
 *{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
